@@ -34,7 +34,7 @@ Styling: CSS3 (Flexbox & Grid)
 # Setup & Installation
 1. Clone the repository
 Bash
-git clone <https://github.com/Fasman25/personal-project-showcase-app>
+git clone <https://github.com/Fasman25/brew-admin.git>
 cd brew-admin
 
 2. Install Dependencies
